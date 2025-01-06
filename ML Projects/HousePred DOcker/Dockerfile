@@ -1,4 +1,4 @@
-FROM python:3.14.0a3-alpine3.20 
+FROM python:3.14.0a3-slim-bookworm 
 COPY . /app
 WORKDIR /app
 RUN pip install -r requirements.txt
