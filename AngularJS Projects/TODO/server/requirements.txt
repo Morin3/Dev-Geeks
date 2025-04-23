@@ -14,7 +14,7 @@ itsdangerous==2.0.0
 Jinja2==3.0.0
 jsonschema==3.2.0
 MarkupSafe==2.0.0
-mysql-connector-python==8.0.25
+mysql-connector-python==9.3.0
 protobuf==3.17.0
 pycodestyle==2.7.0
 pyrsistent==0.17.3
