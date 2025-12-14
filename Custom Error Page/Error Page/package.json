@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/react": "^19.0.1",
-    "next": "14.2.32",
+    "next": "14.2.35",
     "react": "17.0.2",
     "react-dom": "19.0.0",
     "swr": "^1.0.1"
