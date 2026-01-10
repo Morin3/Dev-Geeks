@@ -1,3 +1,4 @@
 streamlit~=1.23.1
 xgboost
 pandas~=2.0.2
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
