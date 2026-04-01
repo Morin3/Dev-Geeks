@@ -1,28 +1,28 @@
 aniso8601==9.0.1
 attrs==21.2.0
 autopep8==1.5.7
-certifi==2022.12.7
+certifi==2023.7.22
 chardet==4.0.0
 click==8.0.0
 colorama==0.4.4
-Flask==2.2.5
-Flask-Cors==4.0.1
+Flask==3.1.3
+Flask-Cors==5.0.0
 flask-restplus==0.13.0
-gunicorn==21.2.0
+gunicorn==22.0.0
 idna==3.7
 itsdangerous==2.0.0
-Jinja2==3.1.3
+Jinja2==3.1.4
 jsonschema==3.2.0
 MarkupSafe==2.0.0
 mysql-connector-python==8.4.0
-protobuf==3.18.3
+protobuf==4.25.8
 pycodestyle==2.7.0
 pyrsistent==0.17.3
 pytz==2021.1
-requests==2.31.0
+requests==2.32.2
 six==1.16.0
 toml==0.10.2
-urllib3==1.26.17
-Werkzeug==2.2.3
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3==1.26.18
+Werkzeug==2.3.8
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
