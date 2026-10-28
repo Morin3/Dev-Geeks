@@ -13,7 +13,7 @@
     "bull-board": "^1.0.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.3",
-    "nodemailer": "^6.4.16"
+    "nodemailer": "^10.1.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.0",
